@@ -4,8 +4,6 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 ---
 
-## Skills
-
 ### **Technical Skills**
 
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20&logoHeight=20) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=sql&logoColor=white&logoWidth=20&logoHeight=20) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&logoWidth=20&logoHeight=20) ![JAVA](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&logoWidth=20&logoHeight=20) ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=vba&logoColor=white&logoWidth=20&logoHeight=20) |
@@ -25,6 +23,11 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 | :handshake: **Stakeholder Management** | :busts_in_silhouette: **People Management** | :chart_with_upwards_trend: **Business Acumen** |
 | :speech_balloon: **Communication**     | :crown: **Leadership**                    | :shield: **Integrity and Discretion**         |
+
+### Soft Skills
+
+| ![Stakeholder Management](https://img.icons8.com/ios-filled/50/000000/handshake.png) **Stakeholder Management** | ![People Management](https://img.icons8.com/ios-filled/50/000000/conference-call.png) **People Management** | ![Business Acumen](https://img.icons8.com/ios-filled/50/000000/bar-chart.png) **Business Acumen** |
+| ![Communication](https://img.icons8.com/ios-filled/50/000000/speech-bubble.png) **Communication** | ![Leadership](https://img.icons8.com/ios-filled/50/000000/leader.png) **Leadership** | ![Integrity and Discretion](https://img.icons8.com/ios-filled/50/000000/shield.png) **Integrity and Discretion** |
 
 ---
 
