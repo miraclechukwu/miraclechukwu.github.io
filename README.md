@@ -7,19 +7,17 @@ Welcome to my portfolio! Here you will find an overview of my education, work ex
 ## Skills
 
 ### Technical Skills
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white), ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-----
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20&logoHeight=20) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=sql&logoColor=white&logoWidth=20&logoHeight=20) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&logoWidth=20&logoHeight=20) ![JAVA](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&logoWidth=20&logoHeight=20) ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=vba&logoColor=white&logoWidth=20&logoHeight=20)
 
-- **Tools:** ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white), ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white), ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?style=for-the-badge&logo=power-automate&logoColor=white), ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white), ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white), ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white),![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+**Tools:**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&logoWidth=20&logoHeight=20) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black&logoWidth=20&logoHeight=20) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white&logoWidth=20&logoHeight=20) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?style=flat&logo=power-automate&logoColor=white&logoWidth=20&logoHeight=20) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white&logoWidth=20&logoHeight=20) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoWidth=20&logoHeight=20) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white&logoWidth=20&logoHeight=20) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white&logoWidth=20&logoHeight=20) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white&logoWidth=20&logoHeight=20)
 
----
+**Frameworks:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=20&logoHeight=20) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=20&logoHeight=20) ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&logoWidth=20&logoHeight=20) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20&logoHeight=20)
 
-- **Frameworks:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-
-- **Platforms:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white), ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white), ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Platforms:**  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white&logoWidth=20&logoHeight=20) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white&logoWidth=20&logoHeight=20) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&logoWidth=20&logoHeight=20) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white&logoWidth=20&logoHeight=20) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white&logoWidth=20&logoHeight=20) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoWidth=20&logoHeight=20)
 
 
 ### Soft Skills
@@ -35,11 +33,23 @@ Welcome to my portfolio! Here you will find an overview of my education, work ex
 
 ---
 
-## Education
+## Projects
 
-- Aspire Leadership Program | Aspire Institute, Jan 2024 – Apr 2024
-- Bachelors of Engineering (Hons.) | Michael Okpara University of Agriculture Umudike, Abia State, Nigeria, Nov 2014 – May 2021, CGPA: 4.07/5.00
+### Electronic Store Sales Analysis
+**Project Description:**  
+Utilized Python for data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report.
 
+**Skills Used:** Python, Pandas, Matplotlib, Data Cleaning, Data Analysis  
+**Outcome:** Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies.  
+[View Project](https://github.com/your-username/electronic-store-sales-analysis)
+
+### Customer Dynamics: RFM Profiler
+**Project Description:**  
+Utilized SQL to clean, transform, and perform RFM (Recency, Frequency, and Monetary) analysis on a customer dataset. This analysis helped understand customer behavior and answer business questions, enabling the development of data-driven marketing strategies.
+
+**Skills Used:** SQL, Data Cleaning, Data Transformation, RFM Analysis  
+**Outcome:** Improved customer segmentation, leading to more targeted marketing campaigns and increased customer retention rates.  
+[View Project](https://github.com/your-username/customer-dynamics-rfm-profiler)
 
 ---
 
@@ -68,28 +78,14 @@ _Port Harcourt_
 ---
 
 
+## Education
+
+- Aspire Leadership Program | Aspire Institute, Jan 2024 – Apr 2024
+- Bachelors of Engineering (Hons.) | Michael Okpara University of Agriculture Umudike, Abia State, Nigeria, Nov 2014 – May 2021, CGPA: 4.07/5.00
+
 
 ---
 
-## Projects
-
-### Electronic Store Sales Analysis
-**Project Description:**  
-Utilized Python for data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report.
-
-**Skills Used:** Python, Pandas, Matplotlib, Data Cleaning, Data Analysis  
-**Outcome:** Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies.  
-[View Project](https://github.com/your-username/electronic-store-sales-analysis)
-
-### Customer Dynamics: RFM Profiler
-**Project Description:**  
-Utilized SQL to clean, transform, and perform RFM (Recency, Frequency, and Monetary) analysis on a customer dataset. This analysis helped understand customer behavior and answer business questions, enabling the development of data-driven marketing strategies.
-
-**Skills Used:** SQL, Data Cleaning, Data Transformation, RFM Analysis  
-**Outcome:** Improved customer segmentation, leading to more targeted marketing campaigns and increased customer retention rates.  
-[View Project](https://github.com/your-username/customer-dynamics-rfm-profiler)
-
----
 ## Certificates
 
 - Data Analysis with Pandas and Python | Udemy
