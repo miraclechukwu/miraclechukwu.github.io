@@ -15,12 +15,9 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 
 ### Soft Skills
-- Strong Stakeholder Management
-- Business Acumen
-- People Management
-- Leadership Skills
-- Excellent Communication
-- Integrity and Discretion
+
+| Strong Stakeholder Management | People Management        | Business Acumen          |
+| Excellent Communication       | Leadership Skills        | Integrity and Discretion |
 
 ---
 
