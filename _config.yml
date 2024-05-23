@@ -2,5 +2,4 @@ title: Miracle Chukwu
 logo: linkedin_profile.jpg
 description: Data Analyst Portfolio 
 #show_downloads: true
-theme: Chirpy
-
+theme: jekyll-theme-minimal
