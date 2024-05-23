@@ -26,8 +26,8 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 ### Soft Skills
 
-| ![Stakeholder Management](https://img.icons8.com/color/48/000000/handshake.png) **Stakeholder Management** | ![People Management](https://img.icons8.com/color/48/000000/conference-call.png) **People Management** | ![Business Acumen](https://img.icons8.com/color/48/000000/bar-chart.png) **Business Acumen** |
-| ![Communication](https://img.icons8.com/color/48/000000/speech-bubble.png) **Communication** | ![Leadership](https://img.icons8.com/color/48/000000/leader.png) **Leadership** | ![Integrity and Discretion](https://img.icons8.com/color/48/000000/shield.png) **Integrity and Discretion** |
+| ![Stakeholder Management](https://img.icons8.com/color/24/000000/handshake.png) **Stakeholder Management** | ![People Management](https://img.icons8.com/color/24/000000/conference-call.png) **People Management** | ![Business Acumen](https://img.icons8.com/color/24/000000/bar-chart.png) **Business Acumen** |
+| ![Communication](https://img.icons8.com/color/24/000000/speech-bubble.png) **Communication** | ![Leadership](https://img.icons8.com/color/24/000000/leadership.png) **Leadership** | ![Integrity and Discretion](https://img.icons8.com/color/24/000000/shield.png) **Integrity and Discretion** |
 
 
 ---
