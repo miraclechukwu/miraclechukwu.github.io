@@ -21,6 +21,13 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 ---
 
+### Soft Skills
+
+| :handshake: **Stakeholder Management** | :busts_in_silhouette: **People Management** | :chart_with_upwards_trend: **Business Acumen** |
+| :speech_balloon: **Communication**     | :crown: **Leadership**                    | :shield: **Integrity and Discretion**         |
+
+---
+
 ## Projects
 
 ### Electronic Store Sales Analysis
@@ -75,10 +82,10 @@ _Port Harcourt_
 
 ## Certificates
 
-- Data Analysis with Pandas and Python @ Udemy
-- Microsoft Power BI Desktop for Business Intelligence @ Maven Analytics
-- MySQL for Data Analytics and Business Intelligence by 365 Careers
-- Google Data Analytics Professional Certificate by Google
+- Data Analysis with Pandas and Python 
+- Microsoft Power BI Desktop for Business Intelligence 
+- MySQL for Data Analytics and Business Intelligence 
+- Google Data Analytics Professional Certificate 
 
 ---
 
