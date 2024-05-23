@@ -21,15 +21,12 @@ Welcome to my portfolio! Here you will find an overview of my education, work ex
 
 
 ### Soft Skills
-- **Integrity and Discretion:** Committed to maintaining confidentiality and ethical standards in all data handling practices.
-- **Problem-Solving:** Adept at identifying issues and devising data-driven solutions to improve business processes.
-- **Business Acumen:** Understanding of business operations and the ability to align data insights with strategic goals.
-- **Adaptability:** Flexible in adapting to new tools, technologies, and methodologies in a fast-paced environment.
-- **Communication (Written & Verbal):** Excellent in presenting complex data insights to non-technical stakeholders in a clear and concise manner.
-- **Attention to Detail:** Thorough in data analysis to ensure accuracy and precision in reporting.
-- **Continuous Learning:** Eager to learn new skills and stay updated with the latest trends in data analytics.
-- **Time Management & Organization:** Efficient in managing multiple tasks and meeting deadlines consistently.
-
+- Strong Stakeholder Management
+- Business Acumen
+- People Management
+- Leadership Skills
+- Excellent Communication
+- Integrity and Discretion
 
 ---
 
