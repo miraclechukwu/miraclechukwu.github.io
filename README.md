@@ -17,13 +17,13 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 ## Projects
 
-### Electronic Store Sales Analysis
+### [Electronic Store Sales Analysis](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis/tree/main)
 **Project Description:**  Utilized Python for data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report.
 
 **Skills Used:** _Python, Pandas, Matplotlib, Data Cleaning, Data Analysis_  
 **Outcome:** _Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies._  
-[View Project](https://github.com/your-username/customer-dynamics-rfm-profiler)
-
+[View Project](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis/tree/main)
+![](quantity_ordered_chart.JPG)
 
 ### Customer Dynamics: RFM Profiler
 **Project Description:**  Utilized SQL to clean, transform, and perform RFM (Recency, Frequency, and Monetary) analysis on a customer dataset. This analysis helped understand customer behavior and answer business questions, enabling the development of data-driven marketing strategies.
