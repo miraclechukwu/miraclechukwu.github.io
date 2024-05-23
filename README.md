@@ -16,7 +16,7 @@ Port Harcourt (Remote)
 - Work with management team to analyze result, establish business needs and provide comprehensive reports 
 
 Business Data Analyst – Viceroy Technologies                                                                                                September 2021 – October 2023 
-Remote 
+Port Harcourt 
 - Processed data from multiple sources, resulting in a 5% increase in data accuracy and integrity for solar installation projects.
 - Conducted exploratory data analysis, leading to the identification of cost-saving opportunities that resulted in a 8% reduction in project expenses.
 - Implemented process improvements that reduced project lead times by 10%, resulting in enhanced operational efficiency and timely project delivery.
