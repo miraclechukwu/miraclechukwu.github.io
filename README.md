@@ -12,17 +12,6 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 | **Frameworks** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=20&logoHeight=20) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=20&logoHeight=20) ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&logoWidth=20&logoHeight=20) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20&logoHeight=20) |
 | **Platforms** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white&logoWidth=20&logoHeight=20) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white&logoWidth=20&logoHeight=20) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&logoWidth=20&logoHeight=20) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white&logoWidth=20&logoHeight=20) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white&logoWidth=20&logoHeight=20) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoWidth=20&logoHeight=20) |
 
-### **Soft Skills**
-
-| **Strong Stakeholder Management** | **People Management**        | **Business Acumen**          |
-| **Excellent Communication**       | **Leadership Skills**        | **Integrity and Discretion** |
-
----
-
-### Soft Skills
-
-| :handshake: **Stakeholder Management** | :busts_in_silhouette: **People Management** | :chart_with_upwards_trend: **Business Acumen** |
-| :speech_balloon: **Communication**     | :crown: **Leadership**                    | :shield: **Integrity and Discretion**         |
 
 ### Soft Skills
 
