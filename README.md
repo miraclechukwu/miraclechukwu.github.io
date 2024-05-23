@@ -1,38 +1,3 @@
-# Data Analyst
-
-### Education
-
-- **Aspire Leadership Program** | Aspire Institute  
-  January 2024 – April 2024  
-  *Certificate in Leadership Development*
-
-- **Bachelors of Engineering (Hons.)**  
-  Michael Okpara University of Agriculture Umudike, Abia State, Nigeria  
-  November 2014 – May 2021  
-  *Major: Mechanical Engineering | CGPA: 4.07/5.00*
-
-### Work Experience
-
-**Document Controller (Data Analyst)**  
-Asommat International Services Limited  
-March 2022 – Present  
-_Port Harcourt (Remote)_
-
-- Reduced processing time by 10% through automation using VBA scripting.
-- Collected, cleaned, and preprocessed large datasets from multiple sources to ensure data accuracy and integrity.
-- Analyzed large data sets to identify patterns and trends for visualization.
-- Worked with management to analyze results, establish business needs, and provide comprehensive reports.
-
-**Business Data Analyst**  
-Viceroy Technologies  
-September 2021 – October 2023  
-_Port Harcourt_
-
-- Processed data from multiple sources, resulting in a 5% increase in data accuracy and integrity for solar installation projects.
-- Conducted exploratory data analysis, leading to the identification of cost-saving opportunities that resulted in an 8% reduction in project expenses.
-- Implemented process improvements that reduced project lead times by 10%, enhancing operational efficiency and timely project delivery.
-
-
 # My Data Analyst Portfolio
 
 Welcome to my portfolio! Here you will find an overview of my education, work experience, skills, and projects. I am passionate about leveraging data to drive business insights and decision-making. 
@@ -43,24 +8,15 @@ Welcome to my portfolio! Here you will find an overview of my education, work ex
 
 I am a dedicated data analyst with a robust background in mechanical engineering, bringing a unique blend of analytical rigor and engineering principles to data analysis. I am proficient in using various data analysis tools and languages to derive actionable insights from complex datasets.
 
-![Profile Picture](assets/images/profile.jpg)
+![Profile Picture](linkedin_profile.jpg)
 
 ---
 
 ## Education
 
-### Aspire Leadership Program | Aspire Institute
-**Certificate in Leadership Development**  
-_January 2024 – April 2024_
+- Aspire Leadership Program | Aspire Institute, Jan 2024 – Apr 2024
+- Bachelors of Engineering (Hons.) | Michael Okpara University of Agriculture Umudike, Abia State, Nigeria, Nov 2014 – May 2021, CGPA: 4.07/5.00
 
-As part of the Aspire Leadership Program, I developed essential leadership skills, including strategic thinking, effective communication, and team management. This program has equipped me with the ability to lead data-driven projects and collaborate with cross-functional teams effectively.
-
-### Michael Okpara University of Agriculture Umudike, Abia State, Nigeria
-**Bachelors of Engineering (Hons.)**  
-_November 2014 – May 2021_  
-**Major:** Mechanical Engineering | **CGPA:** 4.07/5.00
-
-During my undergraduate studies, I honed my problem-solving skills and learned to apply engineering principles to real-world problems. My coursework included extensive use of data analysis and statistical methods, which laid the foundation for my career in data analytics.
 
 ---
 
@@ -91,13 +47,11 @@ _Port Harcourt_
 ## Skills
 
 ### Technical Skills
-- **SQL:** Proficient in writing complex queries and managing databases across all major SQL dialects.
-- **Python:** Skilled in using libraries such as Pandas, NumPy, SciPy, Matplotlib, and Seaborn for data analysis and visualization.
-- **Microsoft Power BI:** Experienced in ETL processes, DAX, data modeling, and creating interactive dashboards for business intelligence.
-- **Tableau:** Capable of building comprehensive visualizations to convey data insights effectively.
-- **Data Cleaning & Preprocessing:** Expertise in preparing data for analysis by handling missing values, outliers, and ensuring data consistency.
-- **Statistical Analysis:** Knowledgeable in hypothesis testing, regression analysis, and other statistical methods to interpret data accurately.
-- **Google Analytics:** Able to track and analyze web traffic and user behavior to inform marketing strategies.
+- **Languages:** Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), SQL ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white), R ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white), JAVA ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white), VBA ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=vba&logoColor=white)
+- **Tools:** Excel ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white), Power BI ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black), PowerPoint ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white), Power Automate ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?style=for-the-badge&logo=power-automate&logoColor=white), Tableau ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white), MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white), Looker ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white), Google Analytics ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white), SAP ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+- **Frameworks:** Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), Numpy ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white), Scikit-Learn ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white), Matplotlib ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Platforms:** PyCharm ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white), Jupyter Notebook ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white), VS Code ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white), Google Colab ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white), Anaconda ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white), AWS ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ### Soft Skills
 - **Integrity and Discretion:** Committed to maintaining confidentiality and ethical standards in all data handling practices.
@@ -130,12 +84,39 @@ Utilized SQL to clean, transform, and perform RFM (Recency, Frequency, and Monet
 [View Project](https://github.com/your-username/customer-dynamics-rfm-profiler)
 
 ---
+## Certificates
+
+### Data Analysis with Pandas and Python
+**Udemy**  
+_Certificate of Completion_
+
+This course provided in-depth knowledge of data analysis using the Pandas library in Python. I gained practical skills in data manipulation, cleaning, and visualization.
+
+### Microsoft Power BI Desktop for Business Intelligence
+**Maven Analytics**  
+_Certificate of Completion_
+
+In this course, I learned to create interactive reports and dashboards using Microsoft Power BI. The course covered data modeling, DAX formulas, and best practices for visualizing business data.
+
+### MySQL for Data Analytics and Business Intelligence
+**365 Careers**  
+_Certificate of Completion_
+
+This certification focused on SQL queries, database design, and data manipulation using MySQL. I learned to extract and analyze data to support business decision-making.
+
+### Google Data Analytics Professional Certificate
+**Google**  
+_Professional Certificate_
+
+This comprehensive program covered data cleaning, analysis, visualization, and project management using tools like Google Sheets, SQL, R, and Tableau. It emphasized real-world applications and case studies to develop practical data analytics skills.
+
+---
 
 ## Contact
 
 Feel free to reach out to me via email at [miraclechukwu29@gmail.com](mailto:miraclechukwu29@gmail.com) for any inquiries or opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/miraclechukwu) | [GitHub](https://github.com/your-username)
 
 ---
 
