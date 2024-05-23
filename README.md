@@ -13,12 +13,6 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 | **Platforms** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white&logoWidth=20&logoHeight=20) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white&logoWidth=20&logoHeight=20) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&logoWidth=20&logoHeight=20) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white&logoWidth=20&logoHeight=20) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white&logoWidth=20&logoHeight=20) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoWidth=20&logoHeight=20) |
 
 
-### Soft Skills
-
-| ![Stakeholder Management](https://img.icons8.com/color/24/000000/handshake.png) **Stakeholder Management** | ![People Management](https://img.icons8.com/color/24/000000/conference-call.png) **People Management** | ![Business Acumen](https://img.icons8.com/color/24/000000/bar-chart.png) **Business Acumen** |
-| ![Communication](https://img.icons8.com/color/24/000000/speech-bubble.png) **Communication** | ![Leadership](https://img.icons8.com/color/24/000000/leadership.png) **Leadership** | ![Integrity and Discretion](https://img.icons8.com/color/24/000000/shield.png) **Integrity and Discretion** |
-
-
 ---
 
 ## Projects
@@ -64,6 +58,12 @@ _Port Harcourt_
 
 ---
 
+### Soft Skills
+
+| ![Stakeholder Management](https://img.icons8.com/color/24/000000/handshake.png) **Stakeholder Management** | ![People Management](https://img.icons8.com/color/24/000000/conference-call.png) **People Management** | ![Business Acumen](https://img.icons8.com/color/24/000000/bar-chart.png) **Business Acumen** |
+| ![Communication](https://img.icons8.com/color/24/000000/speech-bubble.png) **Communication** | ![Leadership](https://img.icons8.com/color/24/000000/leadership.png) **Leadership** | ![Integrity and Discretion](https://img.icons8.com/color/24/000000/shield.png) **Integrity and Discretion** |
+
+
 
 ## Education
 
@@ -79,6 +79,12 @@ _Port Harcourt_
 - Microsoft Power BI Desktop for Business Intelligence 
 - MySQL for Data Analytics and Business Intelligence 
 - Google Data Analytics Professional Certificate 
+
+---
+
+## Blog
+
+I regularly share insights and updates on data analytics, tips for effective data management, and case studies on my [blog](https://medium.com/@miraclechukwu29). Visit to learn more about the latest trends in data analytics and my professional journey.
 
 ---
 
