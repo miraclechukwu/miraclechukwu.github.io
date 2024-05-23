@@ -86,29 +86,10 @@ Utilized SQL to clean, transform, and perform RFM (Recency, Frequency, and Monet
 ---
 ## Certificates
 
-### Data Analysis with Pandas and Python
-**Udemy**  
-_Certificate of Completion_
-
-This course provided in-depth knowledge of data analysis using the Pandas library in Python. I gained practical skills in data manipulation, cleaning, and visualization.
-
-### Microsoft Power BI Desktop for Business Intelligence
-**Maven Analytics**  
-_Certificate of Completion_
-
-In this course, I learned to create interactive reports and dashboards using Microsoft Power BI. The course covered data modeling, DAX formulas, and best practices for visualizing business data.
-
-### MySQL for Data Analytics and Business Intelligence
-**365 Careers**  
-_Certificate of Completion_
-
-This certification focused on SQL queries, database design, and data manipulation using MySQL. I learned to extract and analyze data to support business decision-making.
-
-### Google Data Analytics Professional Certificate
-**Google**  
-_Professional Certificate_
-
-This comprehensive program covered data cleaning, analysis, visualization, and project management using tools like Google Sheets, SQL, R, and Tableau. It emphasized real-world applications and case studies to develop practical data analytics skills.
+- Data Analysis with Pandas and Python | Udemy
+- Microsoft Power BI Desktop for Business Intelligence | Maven Analytics
+- MySQL for Data Analytics and Business Intelligence | 365 Careers
+- Google Data Analytics Professional Certificate | Google
 
 ---
 
@@ -116,7 +97,7 @@ This comprehensive program covered data cleaning, analysis, visualization, and p
 
 Feel free to reach out to me via email at [miraclechukwu29@gmail.com](mailto:miraclechukwu29@gmail.com) for any inquiries or opportunities.
 
-[LinkedIn](www.linkedin.com/in/miraclechukwu) | [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/miraclechukwu) | [GitHub](https://github.com/miraclechukwu)
 
 ---
 
