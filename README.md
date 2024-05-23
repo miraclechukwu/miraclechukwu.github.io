@@ -1,6 +1,6 @@
-# My Data Analyst Portfolio
+# Data Analyst 
 
-Welcome to my portfolio! Here you will find an overview of my education, work experience, skills, and projects. I am passionate about leveraging data to drive business insights and decision-making. 
+Welcome to my Data Analyst portfolio! Here you will find an overview of my education, work experience, skills, and projects. I am passionate about leveraging data to drive business insights and decision-making. 
 
 ---
 
@@ -33,19 +33,18 @@ Welcome to my portfolio! Here you will find an overview of my education, work ex
 ## Projects
 
 ### Electronic Store Sales Analysis
-**Project Description:**  
-Utilized Python for data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report.
+**Project Description:**  Utilized Python for data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report.
 
-**Skills Used:** Python, Pandas, Matplotlib, Data Cleaning, Data Analysis  
-**Outcome:** Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies.  
-[View Project](https://github.com/your-username/electronic-store-sales-analysis)
+**Skills Used:** _Python, Pandas, Matplotlib, Data Cleaning, Data Analysis_  
+**Outcome:** _Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies._  
+[View Project](https://github.com/your-username/customer-dynamics-rfm-profiler)
+
 
 ### Customer Dynamics: RFM Profiler
-**Project Description:**  
-Utilized SQL to clean, transform, and perform RFM (Recency, Frequency, and Monetary) analysis on a customer dataset. This analysis helped understand customer behavior and answer business questions, enabling the development of data-driven marketing strategies.
+**Project Description:**  Utilized SQL to clean, transform, and perform RFM (Recency, Frequency, and Monetary) analysis on a customer dataset. This analysis helped understand customer behavior and answer business questions, enabling the development of data-driven marketing strategies.
 
-**Skills Used:** SQL, Data Cleaning, Data Transformation, RFM Analysis  
-**Outcome:** Improved customer segmentation, leading to more targeted marketing campaigns and increased customer retention rates.  
+**Skills Used:** _SQL, Data Cleaning, Data Transformation, RFM Analysis_  
+**Outcome:** _Improved customer segmentation, leading to more targeted marketing campaigns and increased customer retention rates._  
 [View Project](https://github.com/your-username/customer-dynamics-rfm-profiler)
 
 ---
@@ -85,10 +84,10 @@ _Port Harcourt_
 
 ## Certificates
 
-- Data Analysis with Pandas and Python | Udemy
-- Microsoft Power BI Desktop for Business Intelligence | Maven Analytics
-- MySQL for Data Analytics and Business Intelligence | 365 Careers
-- Google Data Analytics Professional Certificate | Google
+- Data Analysis with Pandas and Python @ Udemy
+- Microsoft Power BI Desktop for Business Intelligence @ Maven Analytics
+- MySQL for Data Analytics and Business Intelligence by 365 Careers
+- Google Data Analytics Professional Certificate by Google
 
 ---
 
