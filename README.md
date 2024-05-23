@@ -4,11 +4,25 @@ Welcome to my portfolio! Here you will find an overview of my education, work ex
 
 ---
 
-## About Me
+## Skills
 
-I am a dedicated data analyst with a robust background in mechanical engineering, bringing a unique blend of analytical rigor and engineering principles to data analysis. I am proficient in using various data analysis tools and languages to derive actionable insights from complex datasets.
+### Technical Skills
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white), ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- **Tools:** ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white), ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white), ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?style=for-the-badge&logo=power-automate&logoColor=white), ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white), ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white), ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white),![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+- **Frameworks:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Platforms:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white), ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white), ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Profile Picture](linkedin_profile.jpg)
+
+### Soft Skills
+- **Integrity and Discretion:** Committed to maintaining confidentiality and ethical standards in all data handling practices.
+- **Problem-Solving:** Adept at identifying issues and devising data-driven solutions to improve business processes.
+- **Business Acumen:** Understanding of business operations and the ability to align data insights with strategic goals.
+- **Adaptability:** Flexible in adapting to new tools, technologies, and methodologies in a fast-paced environment.
+- **Communication (Written & Verbal):** Excellent in presenting complex data insights to non-technical stakeholders in a clear and concise manner.
+- **Attention to Detail:** Thorough in data analysis to ensure accuracy and precision in reporting.
+- **Continuous Learning:** Eager to learn new skills and stay updated with the latest trends in data analytics.
+- **Time Management & Organization:** Efficient in managing multiple tasks and meeting deadlines consistently.
+
 
 ---
 
@@ -44,24 +58,7 @@ _Port Harcourt_
 
 ---
 
-## Skills
 
-### Technical Skills
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white), R ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- **Tools:** ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white), ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black), ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white), ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?style=for-the-badge&logo=power-automate&logoColor=white), ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white), ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white), ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white),![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-- **Frameworks:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **Platforms:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white), ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white), ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-### Soft Skills
-- **Integrity and Discretion:** Committed to maintaining confidentiality and ethical standards in all data handling practices.
-- **Problem-Solving:** Adept at identifying issues and devising data-driven solutions to improve business processes.
-- **Business Acumen:** Understanding of business operations and the ability to align data insights with strategic goals.
-- **Adaptability:** Flexible in adapting to new tools, technologies, and methodologies in a fast-paced environment.
-- **Communication (Written & Verbal):** Excellent in presenting complex data insights to non-technical stakeholders in a clear and concise manner.
-- **Attention to Detail:** Thorough in data analysis to ensure accuracy and precision in reporting.
-- **Continuous Learning:** Eager to learn new skills and stay updated with the latest trends in data analytics.
-- **Time Management & Organization:** Efficient in managing multiple tasks and meeting deadlines consistently.
 
 ---
 
