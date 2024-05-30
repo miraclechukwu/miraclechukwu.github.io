@@ -24,6 +24,7 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 **Project Description:**  Conducted customer segmentation analysis using K-Means clustering on mall customer data, focusing on annual income and spending scores to identify distinct customer groups. Analyzed and visualized customer segments to provide actionable insights for targeted marketing strategies and optimized tenant mixes.
 
 **Skills Used:** _Python, Pandas, Matplotlib, K-Means Clustering, Data Analysis_  
+
 **Outcome:** _Hypothetically identified five customer segments, including high-spending affluents and budget-conscious shoppers. Estimated potential improvements such as a 20% increase in marketing campaign efficiency and a 15% boost in sales based on targeted strategies derived from the analysis_  
 [View Project](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters)
 
