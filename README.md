@@ -28,6 +28,47 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 **Outcome:** _Hypothetically identified five customer segments, including high-spending affluents and budget-conscious shoppers. Estimated potential improvements such as a 20% increase in marketing campaign efficiency and a 15% boost in sales based on targeted strategies derived from the analysis_  
 [View Project](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters)
 
+----
+
+# [Pizza Sales Power BI Visualization](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
+
+- Explored comprehensive dataset encompassing pizza orders details.
+- Addressed key questions on total revenue, average order value, and pizza sales trends.
+- Utilized data cleaning, transformation, and visualization techniques for insights.
+
+#### _Dashboard Insights_:
+
+Executive Dashboard             |  Sales Performance
+:------------------------------:|:--------------------:
+![](https://github.com/miraclechukwu/Pizza-Sales-Power-BI/blob/main/executive_dashboard.JPG) |  ![](https://github.com/miraclechukwu/Pizza-Sales-Power-BI/blob/main/sales_performance.JPG)
+
+# [Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
+
+-	Utilized **_Python_** to analyze 186850 entries and 6 column of sales data in order to gain insights into sales performance, customer behavior, and product popularity. 
+-	Implemented **_Data Cleaning_** and **_Transformation_** techniques to comb through the data and identified the key requirements 
+-	Aggregated and visualized the data by using **_pandas_** and **_matplotlib_** to compile a professional report
+
+#### _Overview of Quantity Ordered and the effect of Average Price_:
+
+Quantity Ordered                |  Quantity Ordered with Average Price
+:------------------------------:|:--------------------:
+![](quantity_ordered_chart.JPG) |  ![](quantity_ordered_with_average_price.JPG)
+
+---
+
+# [Pizza Sales Analysis using MSSQL](https://github.com/miraclechukwu/PIZZA-SALES-ANALYSIS/tree/main)
+- Used **SQL** for in-depth analysis of Pizza Sales dataset containing 48,620 rows and 12 columns.
+- Employed SQL data cleaning techniques to handle missing values, remove duplicates, and ensure data consistency.
+- Utilized SQL transformation queries to aggregate, filter, and join data, generating meaningful insights and actionable reports.
+- Employed **CASE** statements to categorize and group data based on specific conditions.
+- Utilized **Subqueries** for in-depth analysis and to extract subsets of data.
+
+#### _Overview of percentage sales by pizza category_:
+
+![](https://github.com/miraclechukwu/PIZZA-SALES-ANALYSIS/blob/main/Image%20Folder/percentage_sales_by_category.JPG)
+
+
+
 ### [Electronic Store Sales Analysis](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis/tree/main)
 **Project Description:**  Utilized Python for data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report.
 
