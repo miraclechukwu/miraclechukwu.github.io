@@ -67,7 +67,7 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 **Skills Used:** _SQL, Data Cleaning, Data Transformation, CASE Statements, Subqueries_
 
-![](https://github.com/miraclechukwu/Pizza-Sales-Analysis-Using-SQL/blob/main/Image%20Folder/percentage_sales_by_category.JPG)
+![](Portfolio/percentage_sales_by_category.JPG)
 
 
 
