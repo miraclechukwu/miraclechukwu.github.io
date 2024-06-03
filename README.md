@@ -63,6 +63,8 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 ## [Pizza Sales Analysis using MSSQL](https://github.com/miraclechukwu/Pizza-Sales-Analysis-Using-SQL)
 
+![](Portfolio/pizza_sales_intro_mssql.png)
+
 **Project Description:** Analyzed a Pizza Sales dataset containing 48,620 rows and 12 columns using SQL. Employed data cleaning techniques to handle missing values, remove duplicates, and ensure data consistency. Utilized transformation queries to aggregate, filter, and join data, generating meaningful insights and actionable reports. Used CASE statements to categorize and group data based on specific conditions, and subqueries for in-depth analysis and to extract subsets of data. [View Project](https://github.com/miraclechukwu/Pizza-Sales-Analysis-Using-SQL)
 
 **Skills Used:** _SQL, Data Cleaning, Data Transformation, CASE Statements, Subqueries_
