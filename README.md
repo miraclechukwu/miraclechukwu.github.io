@@ -46,7 +46,9 @@ Executive Dashboard             |  Sales Performance
 :------------------------------:|:--------------------:
 ![](Portfolio/executive_dashboard.JPG) |  ![](Portfolio/sales_performance.JPG)
 
-# [Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
+### [Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
+
+![](Portfolio/electronic_intro_image.jpg)
 
 Performed data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report. Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies.
 
