@@ -50,7 +50,7 @@ Executive Dashboard             |  Sales Performance
 
 ![](Portfolio/electronic_intro_image.jpg)
 
-**Project Description:** Performed data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report. Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies.
+**Project Description:** Performed data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report. Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies. [View Project](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
 
 
 **Skills Used:** _Python, Pandas, Matplotlib, Data Cleaning, Data Analysis_
