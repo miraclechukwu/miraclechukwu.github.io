@@ -28,7 +28,7 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 Elbow Point Graph               |  Customer Groups
 :------------------------------:|:--------------------:
-![](Portfolio/elbow_pointgraph.JPG) |  ![](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters/blob/main/customer_group.JPG)
+![](Portfolio/elbow_pointgraph.JPG) |  ![](Portfolio/customer_group.JPG)
   
 
 ----
