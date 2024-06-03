@@ -56,7 +56,7 @@ Executive Dashboard             |  Sales Performance
 
 Quantity Ordered                |  Quantity Ordered with Average Price
 :------------------------------:|:--------------------:
-![](quantity_ordered_chart.JPG) |  ![](quantity_ordered_with_average_price.JPG)
+![](Portfolio/quantity_ordered_chart.JPG) |  ![](Portfolio/quantity_ordered_with_average_price.JPG)
 
 ---
 
@@ -74,10 +74,10 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 
 ### [Electronic Store Sales Analysis](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis/tree/main)
-**Project Description:**  Utilized Python for data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report.
+**Project Description:** Performed data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report. Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies.
+
 
 **Skills Used:** _Python, Pandas, Matplotlib, Data Cleaning, Data Analysis_  
-**Outcome:** _Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies._  
 [View Project](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis/tree/main)
 ![](quantity_ordered_chart.JPG)
 
