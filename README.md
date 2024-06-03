@@ -25,6 +25,10 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 
 **Skills Used:** _Python, Pandas, Matplotlib, K-Means Clustering, Data Analysis_  
+
+Elbow Point Graph               |  Customer Groups
+:------------------------------:|:--------------------:
+![](Portfolio/elbow_pointgraph.JPG) |  ![](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters/blob/main/customer_group.JPG)
   
 
 ----
