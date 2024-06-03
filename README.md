@@ -21,26 +21,28 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 ![](Portfolio/customer_image.png)
 
-**Project Description:**  Conducted customer segmentation analysis using K-Means clustering on mall customer data, focusing on annual income and spending scores to identify distinct customer groups. Analyzed and visualized customer segments to provide actionable insights for targeted marketing strategies and optimized tenant mixes.
+**Project Description:** Conducted customer segmentation analysis using K-Means clustering on mall customer data, focusing on annual income and spending scores to identify distinct customer groups. Analyzed and visualized customer segments to provide actionable insights for targeted marketing strategies and optimized tenant mixes. Hypothetically identified five customer segments, including high-spending affluents and budget-conscious shoppers. Estimated potential improvements such as a 20% increase in marketing campaign efficiency and a 15% boost in sales based on targeted strategies derived from the analysis. [View Project](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters)
+
 
 **Skills Used:** _Python, Pandas, Matplotlib, K-Means Clustering, Data Analysis_  
-
-**Outcome:** _Hypothetically identified five customer segments, including high-spending affluents and budget-conscious shoppers. Estimated potential improvements such as a 20% increase in marketing campaign efficiency and a 15% boost in sales based on targeted strategies derived from the analysis_  
-[View Project](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters)
+  
 
 ----
 
-# [Pizza Sales Power BI Visualization](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
+### [Pizza Sales Power BI Visualization](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
 
-- Explored comprehensive dataset encompassing pizza orders details.
-- Addressed key questions on total revenue, average order value, and pizza sales trends.
-- Utilized data cleaning, transformation, and visualization techniques for insights.
+![](Portfolio/pizza_sales_intro.png)
+
+**Project Description:** Explored a comprehensive dataset encompassing pizza order details. Addressed key questions on total revenue, average order value, and pizza sales trends. Utilized data cleaning, transformation, and visualization techniques to derive insights and create an informative Power BI dashboard.  [View Project](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
+
+
+**Skills Used:** _Power BI, Data Cleaning, Data Transformation, Data Visualization, Data Analysis._  
 
 #### _Dashboard Insights_:
 
 Executive Dashboard             |  Sales Performance
 :------------------------------:|:--------------------:
-![](https://github.com/miraclechukwu/Pizza-Sales-Power-BI/blob/main/executive_dashboard.JPG) |  ![](https://github.com/miraclechukwu/Pizza-Sales-Power-BI/blob/main/sales_performance.JPG)
+![](Portfolio/executive_dashboard.JPG) |  ![](Portfolio/sales_performance.JPG)
 
 # [Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
 
