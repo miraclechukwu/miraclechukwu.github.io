@@ -48,11 +48,10 @@ Executive Dashboard             |  Sales Performance
 
 # [Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
 
--	Utilized **_Python_** to analyze 186850 entries and 6 column of sales data in order to gain insights into sales performance, customer behavior, and product popularity. 
--	Implemented **_Data Cleaning_** and **_Transformation_** techniques to comb through the data and identified the key requirements 
--	Aggregated and visualized the data by using **_pandas_** and **_matplotlib_** to compile a professional report
+Performed data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report. Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies.
 
-#### _Overview of Quantity Ordered and the effect of Average Price_:
+
+**Skills Used:** _Python, Pandas, Matplotlib, Data Cleaning, Data Analysis_
 
 Quantity Ordered                |  Quantity Ordered with Average Price
 :------------------------------:|:--------------------:
