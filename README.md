@@ -42,8 +42,6 @@ Elbow Point Graph               |  Customer Groups
 
 **Skills Used:** _Power BI, Data Cleaning, Data Transformation, Data Visualization, Data Analysis._  
 
-#### _Dashboard Insights_:
-
 Executive Dashboard             |  Sales Performance
 :------------------------------:|:--------------------:
 ![](Portfolio/executive_dashboard.JPG) |  ![](Portfolio/sales_performance.JPG)
