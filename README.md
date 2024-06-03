@@ -61,33 +61,15 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 ---
 
-# [Pizza Sales Analysis using MSSQL](https://github.com/miraclechukwu/PIZZA-SALES-ANALYSIS/tree/main)
-- Used **SQL** for in-depth analysis of Pizza Sales dataset containing 48,620 rows and 12 columns.
-- Employed SQL data cleaning techniques to handle missing values, remove duplicates, and ensure data consistency.
-- Utilized SQL transformation queries to aggregate, filter, and join data, generating meaningful insights and actionable reports.
-- Employed **CASE** statements to categorize and group data based on specific conditions.
-- Utilized **Subqueries** for in-depth analysis and to extract subsets of data.
+## [Pizza Sales Analysis using MSSQL](https://github.com/miraclechukwu/Pizza-Sales-Analysis-Using-SQL)
 
-#### _Overview of percentage sales by pizza category_:
+Analyzed a Pizza Sales dataset containing 48,620 rows and 12 columns using SQL. Employed data cleaning techniques to handle missing values, remove duplicates, and ensure data consistency. Utilized transformation queries to aggregate, filter, and join data, generating meaningful insights and actionable reports. Used CASE statements to categorize and group data based on specific conditions, and subqueries for in-depth analysis and to extract subsets of data. [View Project](https://github.com/miraclechukwu/Pizza-Sales-Analysis-Using-SQL)
+
+**Skills Used:** _SQL, Data Cleaning, Data Transformation, CASE Statements, Subqueries_
 
 ![](https://github.com/miraclechukwu/PIZZA-SALES-ANALYSIS/blob/main/Image%20Folder/percentage_sales_by_category.JPG)
 
 
-
-### [Electronic Store Sales Analysis](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis/tree/main)
-**Project Description:** Performed data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report. Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies.
-
-
-**Skills Used:** _Python, Pandas, Matplotlib, Data Cleaning, Data Analysis_  
-[View Project](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis/tree/main)
-![](quantity_ordered_chart.JPG)
-
-### Customer Dynamics: RFM Profiler
-**Project Description:**  Utilized SQL to clean, transform, and perform RFM (Recency, Frequency, and Monetary) analysis on a customer dataset. This analysis helped understand customer behavior and answer business questions, enabling the development of data-driven marketing strategies.
-
-**Skills Used:** _SQL, Data Cleaning, Data Transformation, RFM Analysis_  
-**Outcome:** _Improved customer segmentation, leading to more targeted marketing campaigns and increased customer retention rates._  
-[View Project](https://github.com/your-username/customer-dynamics-rfm-profiler)
 
 ---
 
