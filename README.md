@@ -4,7 +4,7 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 ---
 
-### **Technical Skills**
+## **Technical Skills**
 
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20&logoHeight=20) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat&logo=sql&logoColor=white&logoWidth=20&logoHeight=20) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&logoWidth=20&logoHeight=20) ![JAVA](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&logoWidth=20&logoHeight=20) ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=vba&logoColor=white&logoWidth=20&logoHeight=20) |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,7 +17,7 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 ## Projects
 
-### [Customer Mall Segmentation Analysis using K-Means Clustering](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters)
+## [Customer Mall Segmentation Analysis using K-Means Clustering](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters)
 
 ![](Portfolio/customer_image.png)
 
@@ -33,7 +33,7 @@ Elbow Point Graph               |  Customer Groups
 
 ----
 
-### [Pizza Sales Power BI Visualization](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
+## [Pizza Sales Power BI Visualization](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
 
 ![](Portfolio/pizza_sales_intro.png)
 
@@ -46,7 +46,7 @@ Executive Dashboard             |  Sales Performance
 :------------------------------:|:--------------------:
 ![](Portfolio/executive_dashboard.JPG) |  ![](Portfolio/sales_performance.JPG)
 
-### [Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
+## [Electronic Store Sales Analysis using Python](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
 
 ![](Portfolio/electronic_intro_image.jpg)
 
