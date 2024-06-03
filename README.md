@@ -21,7 +21,7 @@ Welcome to my Data Analyst portfolio! Here you will find an overview of my educa
 
 ![](Portfolio/customer_image.png)
 
-**Project Description:** Conducted customer segmentation analysis using K-Means clustering on mall customer data, focusing on annual income and spending scores to identify distinct customer groups. Analyzed and visualized customer segments to provide actionable insights for targeted marketing strategies and optimized tenant mixes. Hypothetically identified five customer segments, including high-spending affluents and budget-conscious shoppers. Estimated potential improvements such as a 20% increase in marketing campaign efficiency and a 15% boost in sales based on targeted strategies derived from the analysis. [**_View Project_**](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters)
+**Project Description:** Conducted customer segmentation analysis using K-Means clustering on mall customer data, focusing on annual income and spending scores to identify distinct customer groups. Analyzed and visualized customer segments to provide actionable insights for targeted marketing strategies and optimized tenant mixes. Hypothetically identified five customer segments, including high-spending affluents and budget-conscious shoppers. Estimated potential improvements such as a 20% increase in marketing campaign efficiency and a 15% boost in sales based on targeted strategies derived from the analysis. [_View Project_](https://github.com/miraclechukwu/Customer-Segmentation-Using-K-Means-Clusters)
 
 
 **Skills Used:** _Python, Pandas, Matplotlib, K-Means Clustering, Data Analysis_  
@@ -37,7 +37,7 @@ Elbow Point Graph               |  Customer Groups
 
 ![](Portfolio/pizza_sales_intro.png)
 
-**Project Description:** Explored a comprehensive dataset encompassing pizza order details. Addressed key questions on total revenue, average order value, and pizza sales trends. Utilized data cleaning, transformation, and visualization techniques to derive insights and create an informative Power BI dashboard.  [**View Project**](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
+**Project Description:** Explored a comprehensive dataset encompassing pizza order details. Addressed key questions on total revenue, average order value, and pizza sales trends. Utilized data cleaning, transformation, and visualization techniques to derive insights and create an informative Power BI dashboard.  [_View Project_](https://github.com/miraclechukwu/Pizza-Sales-Power-BI)
 
 
 **Skills Used:** _Power BI, Data Cleaning, Data Transformation, Data Visualization, Data Analysis._  
@@ -50,7 +50,7 @@ Executive Dashboard             |  Sales Performance
 
 ![](Portfolio/electronic_intro_image.jpg)
 
-**Project Description:** Performed data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report. Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies. [**View Project**](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
+**Project Description:** Performed data analysis on a dataset of 186,850 entries and 6 columns. Applied data cleaning and transformation techniques to extract key insights on sales performance, customer behavior, and product popularity. Visualized the results using Pandas and Matplotlib, and compiled a detailed report. Identified top-performing products and peak sales periods, which informed inventory management and marketing strategies. [_View Project_](https://github.com/miraclechukwu/Electronic-Store-Sales-Analysis)
 
 
 **Skills Used:** _Python, Pandas, Matplotlib, Data Cleaning, Data Analysis_
@@ -65,7 +65,7 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 ![](Portfolio/pizza_sales_intro_mssql.png)
 
-**Project Description:** Analyzed a Pizza Sales dataset containing 48,620 rows and 12 columns using SQL. Employed data cleaning techniques to handle missing values, remove duplicates, and ensure data consistency. Utilized transformation queries to aggregate, filter, and join data, generating meaningful insights and actionable reports. Used CASE statements to categorize and group data based on specific conditions, and subqueries for in-depth analysis and to extract subsets of data. [**View Project**](https://github.com/miraclechukwu/Pizza-Sales-Analysis-Using-SQL)
+**Project Description:** Analyzed a Pizza Sales dataset containing 48,620 rows and 12 columns using SQL. Employed data cleaning techniques to handle missing values, remove duplicates, and ensure data consistency. Utilized transformation queries to aggregate, filter, and join data, generating meaningful insights and actionable reports. Used CASE statements to categorize and group data based on specific conditions, and subqueries for in-depth analysis and to extract subsets of data. [_View Project_](https://github.com/miraclechukwu/Pizza-Sales-Analysis-Using-SQL)
 
 **Skills Used:** _SQL, Data Cleaning, Data Transformation, CASE Statements, Subqueries_
 
