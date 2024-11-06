@@ -77,25 +77,27 @@ Quantity Ordered                |  Quantity Ordered with Average Price
 
 ## Work Experience
 
-### Document Controller (Data Analyst)
+### Data Management Officer (Data Analyst)
 **Asommat International Services Limited**  
 _March 2022 – Present_  
-_Port Harcourt (Remote)_
+_Port Harcourt_
 
-- **Reduced processing time by 10%** through automation using VBA scripting, streamlining data management processes.
-- **Collected, cleaned, and preprocessed large datasets** from multiple sources to ensure data accuracy and integrity, enhancing the reliability of business insights.
-- **Analyzed large data sets to identify patterns and trends**, providing actionable insights and visualizations to support decision-making.
-- **Collaborated with the management team** to analyze results, establish business needs, and provide comprehensive reports, facilitating strategic planning.
+- Used Excel to analyze key office metrics, such as Resource Utilization and Employee Productivity. Developed monthly reports for senior management, identifying trends in office supply usage and task completion rates. These reports supported better decision-making, leading to more efficient use of resources and improved operational workflow.
 
-### Business Data Analyst
+- Managed over 1,500 records related to office operations and cargo tank cleaning projects, ensuring accurate filing and easy retrieval of documents. Improved Document Retrieval Time by transitioning to a centralized digital filing system, ensuring compliance with internal and external standards.
+
+- Streamlined daily office operations by monitoring Administrative Efficiency and Task Completion Rates. Coordinated schedules, managed communication, and supported the timely completion of cargo tank cleaning projects. Improved office processes by implementing Excel-based tracking systems, resulting in a 15% reduction in time spent on routine tasks and enhancing overall team productivity.
+
+
+### Data Analyst
 **Viceroy Technologies**  
 _September 2021 – October 2023_  
 _Port Harcourt_
 
-- **Increased data accuracy by 5%** through meticulous processing of data from multiple sources, ensuring high-quality inputs for analysis.
-- **Identified cost-saving opportunities leading to an 8% reduction in project expenses** by conducting thorough exploratory data analysis.
-- **Implemented process improvements that reduced project lead times by 10%**, resulting in enhanced operational efficiency and timely project delivery.
-- **Developed detailed reports and dashboards** to communicate findings and support data-driven decision-making across the organization.
+- Assisted in consolidating data from various sources, contributing to a 15% improvement in data consistency for solar installation project tracking.
+- Supported senior analysts in conducting basic exploratory data analysis, helping identify minor inefficiencies that contributed to a 2% reduction in project material costs.
+- Participated in the implementation of new data entry procedures, which helped decrease data processing time by 10% for small-scale solar projects.
+
 
 ---
 
